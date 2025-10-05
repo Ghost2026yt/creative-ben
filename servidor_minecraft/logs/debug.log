@@ -9229,3 +9229,14 @@ Player: Lumpylauncer]
 [05Oct2025 21:53:50.720] [Server thread/ERROR] [KubeJS Server/]:   at java.lang.Thread.run(Thread.java:840)
 [05Oct2025 21:54:36.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Oct2025 21:54:36.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Oct2025 21:56:02.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Microscopio has made the advancement [Acquire Hardware]
+[05Oct2025 21:57:32.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost2026yT lost connection: Timed out
+[05Oct2025 21:57:32.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Galvan_Peruan left the game
+[05Oct2025 21:59:36.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Oct2025 21:59:36.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Oct2025 21:59:52.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: muela lost connection: Disconnected
+[05Oct2025 21:59:52.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fanton red left the game
+[05Oct2025 22:02:30.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Disconnected
+[05Oct2025 22:02:30.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[05Oct2025 22:04:36.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Oct2025 22:04:36.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
