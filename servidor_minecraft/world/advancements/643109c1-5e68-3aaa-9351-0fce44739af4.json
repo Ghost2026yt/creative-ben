@@ -1,0 +1,45 @@
+{
+  "alienevo:recipes/omnitrix_workbench": {
+    "criteria": {
+      "has_upgrade_crystal": "2025-10-05 13:29:06 +0000"
+    },
+    "done": true
+  },
+  "alienevo:alien_evolution": {
+    "criteria": {
+      "tick": "2025-10-05 13:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-10-05 13:26:54 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/upgrade_chip": {
+    "criteria": {
+      "has_upgrade_crystal": "2025-10-05 13:29:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-10-05 13:27:34 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/color_modules": {
+    "criteria": {
+      "has_upgrade_crystal": "2025-10-05 13:29:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2025-10-05 13:26:55 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

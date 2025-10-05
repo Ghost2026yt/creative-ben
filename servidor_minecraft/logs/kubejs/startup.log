@@ -93,3 +93,4 @@
 [13:08:24] [INFO] addonpack_alienevo:kubejs_scripts/motion_to_entity.js#8: Loaded Java class 'net.minecraft.world.entity.boss.enderdragon.EndCrystal'
 [13:08:25] [INFO] addonpack_alienevo:kubejs_scripts/glow_crystals.js#3: Loaded Java class 'dev.latvian.mods.kubejs.item.custom.BasicItemJS$Builder'
 [13:11:15] [INFO] addonpack_alienevo:kubejs_scripts/decouple.js#79: Successfully updated slot properties for playlist 1
+[13:31:30] [INFO] addonpack_alienevo:kubejs_scripts/decouple.js#79: Successfully updated slot properties for playlist 1
