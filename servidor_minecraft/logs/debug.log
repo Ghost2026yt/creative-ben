@@ -4053,3 +4053,17 @@ com.google.gson.JsonParseException: Ability 'alienevo:generate_random' does not 
 [05Oct2025 19:44:04.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:48722] logged in with entity id 54551 at (-1216.421821760061, 68.0, 225.66547028936003)
 [05Oct2025 19:44:04.771] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@2f58da77 into net.minecraft.network.Connection@7787ba06
 [05Oct2025 19:44:04.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[05Oct2025 19:44:36.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Oct2025 19:44:36.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Oct2025 19:44:57.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer moved too quickly! 10.10722483766699,0.0,-0.624504341649498
+[05Oct2025 19:46:30.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Galvan_Peruan: Set own game mode to Spectator Mode]
+[05Oct2025 19:46:43.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Set own game mode to Creative Mode]
+[05Oct2025 19:49:36.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Oct2025 19:49:36.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Oct2025 19:51:30.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: muela moved too quickly! -8.203891410028746,-38.0,-3.0513686598814047
+[05Oct2025 19:51:50.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer moved too quickly! -0.7931330893491122,-16.0,1.5338567096855797
+[05Oct2025 19:52:15.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ectonurite: Killed Lepidopterran]
+[05Oct2025 19:52:45.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ectonurite: Alien Added: alienevo_aliens:vaxasaurian (ID: 33)
+Auto-assigned to Playlist: 2, Slot: 1
+Player: Lumpylauncer]
+[05Oct2025 19:54:02.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer moved too quickly! 6.690289559354824,-5.0,-7.105847519533825
