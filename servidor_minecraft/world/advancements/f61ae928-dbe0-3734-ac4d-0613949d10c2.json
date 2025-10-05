@@ -516,33 +516,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-10-05 20:37:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2025-10-05 20:26:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
-      "has_prismarine_brick": "2025-10-05 20:50:13 +0000"
+      "has_glass": "2025-10-05 20:31:12 +0000"
     },
     "done": true
   },
-  "palladium:recipes/misc/lead_ingot_from_lead_block": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_lead_block": "2025-10-05 20:50:20 +0000"
+      "has_smooth_stone": "2025-10-05 20:37:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-10-05 20:37:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-10-05 20:37:08 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-10-05 20:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-10-05 20:50:13 +0000"
     },
     "done": true
   },
@@ -564,21 +576,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+  "palladium:recipes/misc/lead_ingot_from_lead_block": {
     "criteria": {
-      "has_smooth_stone": "2025-10-05 20:37:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-10-05 20:31:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-10-05 20:37:08 +0000"
+      "has_lead_block": "2025-10-05 20:50:20 +0000"
     },
     "done": true
   },

@@ -761,3 +761,19 @@ Player: Lumpylauncer]
 [05Oct2025 20:44:00.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [muela: Killed muela]
 [05Oct2025 20:44:52.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [muela: Set own game mode to Spectator Mode]
 [05Oct2025 20:45:11.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [muela: Set own game mode to Creative Mode]
+[05Oct2025 20:57:53.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[05Oct2025 20:57:53.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[05Oct2025 20:57:59.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:49970] logged in with entity id 156849 at (-1252.8340739226064, -18.0, 222.60249879176067)
+[05Oct2025 20:57:59.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[05Oct2025 20:58:32.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Karma: Teleported Microscopio to 0.500000, 0.000000, 0.500000]
+[05Oct2025 20:58:42.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Karma: Teleported Microscopio to Karma]
+[05Oct2025 20:59:17.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[05Oct2025 20:59:17.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Microscopio left the game
+[05Oct2025 20:59:22.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:50044] logged in with entity id 160407 at (-1265.6651975444356, -18.0, 225.59665704367495)
+[05Oct2025 20:59:22.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[05Oct2025 20:59:52.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[05Oct2025 20:59:52.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Microscopio left the game
+[05Oct2025 20:59:59.667] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:50200] logged in with entity id 162923 at (-1265.6651975444356, -18.0, 225.59665704367495)
+[05Oct2025 20:59:59.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[05Oct2025 21:02:46.690] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Lumpylauncer just tried to change non-editable sign
+[05Oct2025 21:03:00.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Karma has completed the challenge [Cover Me in Debris]
