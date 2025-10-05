@@ -14,9 +14,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-10-05 13:09:25 +0000",
+      "minecraft:bamboo_jungle": "2025-10-05 19:22:35 +0000",
       "minecraft:beach": "2025-10-05 13:50:21 +0000",
       "minecraft:sparse_jungle": "2025-10-05 13:50:24 +0000",
       "minecraft:river": "2025-10-05 13:50:23 +0000",
+      "minecraft:lukewarm_ocean": "2025-10-05 19:22:55 +0000",
       "minecraft:snowy_plains": "2025-10-05 15:24:24 +0000",
       "minecraft:forest": "2025-10-05 16:19:43 +0000",
       "minecraft:jungle": "2025-10-05 13:48:36 +0000",

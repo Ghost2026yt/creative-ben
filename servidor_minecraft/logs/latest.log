@@ -453,3 +453,31 @@ com.google.gson.JsonParseException: Ability 'alienevo:generate_random' does not 
 [05Oct2025 19:22:49.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost2026yT moved too quickly! 10.880151007797906,-0.012067009673607743,-2.0462385806537355
 [05Oct2025 19:22:57.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost2026yT moved too quickly! -6.135437514095543,4.6128130795543,-7.454065708205704
 [05Oct2025 19:23:10.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost2026yT moved too quickly! -5.667663654432374,0.7411058613890305,8.828838784648696
+[05Oct2025 19:23:38.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Oct2025 19:24:40.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer moved too quickly! -2.316082237389651,1.9404709530316353,-10.716855649206451
+[05Oct2025 19:25:08.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amatista: Teleported Amatista to -172.500000, 69.500000, 217.500000]
+[05Oct2025 19:25:24.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amatista: Teleported Lumpylauncer to Amatista]
+[05Oct2025 19:25:49.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fuego carmesi: Teleported fuego carmesi to -254.500000, 62.500000, 68.500000]
+[05Oct2025 19:26:40.159] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48690, l='ServerLevel[world]', x=-197.46, y=94.00, z=254.58] died, message: 'Villager was slain by Zombie'
+[05Oct2025 19:26:47.956] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48687, l='ServerLevel[world]', x=-196.93, y=94.00, z=258.98] died, message: 'Villager was slain by Zombie'
+[05Oct2025 19:29:33.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[05Oct2025 19:29:33.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cuarzo left the game
+[05Oct2025 19:29:36.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: muela lost connection: Timed out
+[05Oct2025 19:29:36.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruby left the game
+[05Oct2025 19:29:39.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:47938] logged in with entity id 51083 at (-164.4527225550603, 62.9375, 219.0908338989628)
+[05Oct2025 19:29:39.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[05Oct2025 19:29:56.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: muela[/100.116.191.5:33220] logged in with entity id 51109 at (-164.56115812369933, 62.9375, 222.98555801015732)
+[05Oct2025 19:29:56.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: muela joined the game
+[05Oct2025 19:30:31.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: muela lost connection: Timed out
+[05Oct2025 19:30:31.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruby left the game
+[05Oct2025 19:30:36.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[05Oct2025 19:30:36.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cuarzo left the game
+[05Oct2025 19:30:39.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: muela[/100.116.191.5:45972] logged in with entity id 51218 at (-164.56115812369933, 62.9375, 222.98555801015732)
+[05Oct2025 19:30:39.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: muela joined the game
+[05Oct2025 19:31:30.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:48046] logged in with entity id 51329 at (-164.4527225550603, 62.9375, 219.0908338989628)
+[05Oct2025 19:31:30.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[05Oct2025 19:32:38.921] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/48541, l='ServerLevel[world]', x=-172.00, y=65.64, z=202.73] died, message: 'Farmer was slain by Amatista'
+[05Oct2025 19:33:13.315] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alienevo:crash_site took 1035 ms
+[05Oct2025 19:33:42.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amatista: Teleported Amatista to -1183.500000, 80.000000, 192.500000]
+[05Oct2025 19:33:42.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2959ms or 59 ticks behind
+[05Oct2025 19:33:42.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amatista has made the advancement [Crash Course]
