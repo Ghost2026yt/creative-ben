@@ -101,5 +101,11 @@
     },
     "done": true
   },
+  "palladium:recipes/decorations/suit_stand": {
+    "criteria": {
+      "has_armor_stand": "2025-10-05 19:56:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

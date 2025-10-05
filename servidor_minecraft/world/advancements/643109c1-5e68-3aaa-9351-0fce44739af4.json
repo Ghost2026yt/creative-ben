@@ -17,6 +17,7 @@
       "minecraft:birch_forest": "2025-10-05 13:26:55 +0000",
       "minecraft:bamboo_jungle": "2025-10-05 19:22:55 +0000",
       "minecraft:beach": "2025-10-05 19:27:04 +0000",
+      "minecraft:dark_forest": "2025-10-05 19:51:20 +0000",
       "minecraft:sparse_jungle": "2025-10-05 13:49:47 +0000",
       "minecraft:river": "2025-10-05 13:50:23 +0000",
       "minecraft:lukewarm_ocean": "2025-10-05 19:23:06 +0000",
@@ -628,6 +629,30 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-10-05 19:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_pillar": "2025-10-05 19:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_pillar": "2025-10-05 19:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_pillar": "2025-10-05 19:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_pillar": "2025-10-05 19:50:39 +0000"
     },
     "done": true
   },
