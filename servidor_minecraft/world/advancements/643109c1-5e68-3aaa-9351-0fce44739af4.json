@@ -890,6 +890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-10-05 21:20:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-10-05 20:25:45 +0000"
@@ -902,9 +908,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-10-05 21:20:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-10-05 20:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:16:35 +0000"
     },
     "done": true
   },
@@ -923,6 +941,18 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-10-05 20:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:16:35 +0000"
     },
     "done": true
   },
@@ -962,6 +992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:16:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-10-05 20:46:46 +0000"
@@ -986,6 +1022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:16:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-10-05 20:47:08 +0000"
@@ -998,9 +1040,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:16:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2025-10-05 20:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-10-05 21:20:47 +0000"
     },
     "done": true
   },
@@ -1016,9 +1070,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-10-05 21:20:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-10-05 20:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-10-05 21:20:47 +0000"
     },
     "done": true
   },
@@ -1052,6 +1124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:16:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2025-10-05 20:49:30 +0000"
@@ -1064,9 +1142,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:16:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-10-05 20:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-10-05 21:20:47 +0000"
     },
     "done": true
   },
@@ -1079,6 +1169,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-10-05 20:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:16:35 +0000"
     },
     "done": true
   },
@@ -1112,6 +1208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-10-05 21:20:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-10-05 20:25:45 +0000"
@@ -1133,6 +1235,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2025-10-05 20:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-10-05 21:16:35 +0000"
     },
     "done": true
   },

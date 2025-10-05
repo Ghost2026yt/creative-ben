@@ -582,6 +582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-10-05 21:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-10-05 21:12:09 +0000"
@@ -621,6 +627,12 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-05 21:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-10-05 21:24:15 +0000"
     },
     "done": true
   },
@@ -729,6 +741,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-05 21:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-10-05 21:20:15 +0000"
     },
     "done": true
   },

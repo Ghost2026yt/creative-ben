@@ -805,9 +805,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-10-05 21:15:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-10-05 20:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-10-05 21:15:58 +0000"
     },
     "done": true
   },
@@ -820,6 +832,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-10-05 20:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-10-05 21:17:02 +0000"
     },
     "done": true
   },
@@ -838,6 +856,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-10-05 20:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-10-05 21:17:02 +0000"
     },
     "done": true
   },
@@ -889,6 +913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-10-05 21:17:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-10-05 20:25:38 +0000"
@@ -910,6 +940,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-10-05 20:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-10-05 21:17:02 +0000"
     },
     "done": true
   },
@@ -1039,6 +1075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-10-05 21:15:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-10-05 20:20:30 +0000"
@@ -1069,15 +1111,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-10-05 21:15:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-10-05 20:25:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-10-05 21:17:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-10-05 20:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-10-05 21:17:02 +0000"
     },
     "done": true
   },
@@ -1216,6 +1276,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-10-05 20:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-10-05 21:17:02 +0000"
     },
     "done": true
   },
