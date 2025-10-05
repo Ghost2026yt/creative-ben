@@ -1,45 +1,45 @@
-[14:57:27] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[14:57:27] [INIT] Loaded plugins:
-[14:57:27] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[14:57:27] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
-[14:57:27] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[14:57:27] [INFO] Loaded script server_scripts:example.js in 0.003 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.002 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.004 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.057 s
-[14:57:27] [INFO] addonpack_alienevo:kubejs_scripts/slam.js#3: Loaded Java class 'net.minecraft.core.particles.DustParticleOptions'
-[14:57:27] [INFO] addonpack_alienevo:kubejs_scripts/slam.js#4: Loaded Java class 'org.joml.Vector3f'
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/slam.js in 0.015 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/server_stuff.js in 0.003 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/ride.js in 0.002 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/recipes.js in 0.0 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.008 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.006 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.013 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.004 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nickname_command.js in 0.001 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.005 s
-[14:57:27] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#101: Loaded Java class 'net.minecraft.world.entity.LivingEntity'
-[14:57:27] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#102: Loaded Java class 'net.minecraft.world.entity.decoration.ArmorStand'
-[14:57:27] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#103: Loaded Java class 'net.minecraft.world.entity.projectile.Projectile'
-[14:57:27] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#145: Loaded Java class 'net.minecraft.resources.ResourceKey'
-[14:57:27] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#146: Loaded Java class 'net.minecraft.tags.TagKey'
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.041 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/fall.js in 0.0 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.005 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/color_commands.js in 0.001 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.003 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.0 s
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/behind.js in 0.0 s
-[14:57:27] [INFO] addonpack_alienevo:kubejs_scripts/attributes.js#1: Loaded Java class 'net.minecraft.world.entity.ai.attributes.Attributes'
-[14:57:27] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/attributes.js in 0.002 s
-[14:57:27] [INFO] Loaded 22/22 KubeJS server scripts in 0.243 s with 0 errors and 0 warnings
-[14:57:27] [INFO] Scripts loaded
-[14:57:27] [INFO] Initializing recipe event...
-[14:57:30] [INFO] [minecraft:block] Found 294 tags, added 13 objects, removed 0 objects
-[14:57:30] [INFO] [minecraft:item] Found 308 tags, added 4 objects, removed 0 objects
-[14:57:31] [INFO] Processing recipes...
-[14:57:31] [INFO] Found 1228 recipes in 156.7 ms
-[14:57:31] [INFO] Posted recipe events in 2.073 ms
-[14:57:31] [INFO] Added 5 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes in 133.8 ms
-[14:57:41] [INFO] Server resource reload complete!
+[18:53:47] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[18:53:47] [INIT] Loaded plugins:
+[18:53:47] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:53:47] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[18:53:47] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[18:53:47] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[18:53:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.002 s
+[18:53:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.002 s
+[18:53:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.077 s
+[18:53:47] [INFO] addonpack_alienevo:kubejs_scripts/slam.js#3: Loaded Java class 'net.minecraft.core.particles.DustParticleOptions'
+[18:53:47] [INFO] addonpack_alienevo:kubejs_scripts/slam.js#4: Loaded Java class 'org.joml.Vector3f'
+[18:53:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/slam.js in 0.013 s
+[18:53:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/server_stuff.js in 0.007 s
+[18:53:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/ride.js in 0.005 s
+[18:53:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/recipes.js in 0.0 s
+[18:53:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.008 s
+[18:53:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.006 s
+[18:53:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.012 s
+[18:53:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.002 s
+[18:53:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nickname_command.js in 0.0 s
+[18:53:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.006 s
+[18:53:47] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#101: Loaded Java class 'net.minecraft.world.entity.LivingEntity'
+[18:53:47] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#102: Loaded Java class 'net.minecraft.world.entity.decoration.ArmorStand'
+[18:53:47] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#103: Loaded Java class 'net.minecraft.world.entity.projectile.Projectile'
+[18:53:47] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#145: Loaded Java class 'net.minecraft.resources.ResourceKey'
+[18:53:47] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#146: Loaded Java class 'net.minecraft.tags.TagKey'
+[18:53:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.041 s
+[18:53:47] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/fall.js in 0.001 s
+[18:53:48] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.002 s
+[18:53:48] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/color_commands.js in 0.0 s
+[18:53:48] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.004 s
+[18:53:48] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.001 s
+[18:53:48] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/behind.js in 0.001 s
+[18:53:48] [INFO] addonpack_alienevo:kubejs_scripts/attributes.js#1: Loaded Java class 'net.minecraft.world.entity.ai.attributes.Attributes'
+[18:53:48] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/attributes.js in 0.006 s
+[18:53:48] [INFO] Loaded 22/22 KubeJS server scripts in 0.253 s with 0 errors and 0 warnings
+[18:53:48] [INFO] Scripts loaded
+[18:53:48] [INFO] Initializing recipe event...
+[18:53:50] [INFO] [minecraft:item] Found 308 tags, added 4 objects, removed 0 objects
+[18:53:50] [INFO] [minecraft:block] Found 294 tags, added 13 objects, removed 0 objects
+[18:53:51] [INFO] Processing recipes...
+[18:53:51] [INFO] Found 1228 recipes in 117.7 ms
+[18:53:51] [INFO] Posted recipe events in 2.931 ms
+[18:53:52] [INFO] Added 5 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes in 204.4 ms
+[18:54:01] [INFO] Server resource reload complete!
