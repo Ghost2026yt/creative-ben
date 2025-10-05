@@ -741,3 +741,14 @@ Player: Lumpylauncer]
 [05Oct2025 20:21:42.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fuego carmesi left the game
 [05Oct2025 20:21:51.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: muela[/100.116.191.5:57372] logged in with entity id 67081 at (-1250.208358871436, -24.0, 229.73088630880167)
 [05Oct2025 20:21:51.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: muela joined the game
+[05Oct2025 20:25:59.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[05Oct2025 20:25:59.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hot left the game
+[05Oct2025 20:26:01.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fuego carmesi has made the advancement [Bring Home the Beacon]
+[05Oct2025 20:26:01.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost2026yT has made the advancement [Bring Home the Beacon]
+[05Oct2025 20:26:12.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:49802] logged in with entity id 82623 at (-1264.669999986887, -19.0, 232.5586078254488)
+[05Oct2025 20:26:12.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[05Oct2025 20:26:45.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hot has made the advancement [Bring Home the Beacon]
+[05Oct2025 20:29:39.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Set own game mode to Spectator Mode]
+[05Oct2025 20:29:41.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Set own game mode to Creative Mode]
+[05Oct2025 20:30:08.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Set own game mode to Spectator Mode]
+[05Oct2025 20:30:13.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Set own game mode to Creative Mode]
