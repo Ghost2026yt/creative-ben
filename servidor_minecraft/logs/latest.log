@@ -571,3 +571,41 @@ Player: Lumpylauncer]
 [05Oct2025 20:01:53.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: species.alienevo_aliens.80 has completed the challenge [Sniper Duel]
 [05Oct2025 20:01:58.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost2026yT moved too quickly! 1.5964417991031183,-11.274224484347428,-5.6630489959676815
 [05Oct2025 20:02:56.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Teleported Ghost2026yT to muela]
+[05Oct2025 20:04:45.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer moved too quickly! -6.017174603902049,-7.890402291159262,-6.198386685971883
+[05Oct2025 20:08:04.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ectonurite: Alien Added: alienevo_aliens:arburian_pelarota (ID: 11)
+Auto-assigned to Playlist: 2, Slot: 2
+Player: Lumpylauncer]
+[05Oct2025 20:11:23.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[05Oct2025 20:11:23.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[05Oct2025 20:11:36.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:49178] logged in with entity id 62551 at (-1213.4729642388725, 68.0, 226.42031325089528)
+[05Oct2025 20:11:36.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[05Oct2025 20:11:38.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: muela lost connection: Timed out
+[05Oct2025 20:11:38.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: muela left the game
+[05Oct2025 20:11:59.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: muela[/100.116.191.5:45296] logged in with entity id 62633 at (-1220.8030910831737, 69.00605905238486, 227.31129917067383)
+[05Oct2025 20:11:59.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: muela joined the game
+[05Oct2025 20:11:59.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Minion'/62451, l='ServerLevel[world]', x=0.50, y=-200.00, z=0.50] died: Minion was killed
+[05Oct2025 20:11:59.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Minion'/62452, l='ServerLevel[world]', x=0.50, y=-200.00, z=0.50] died: Minion was killed
+[05Oct2025 20:12:25.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Minion'/62524, l='ServerLevel[world]', x=0.50, y=-200.00, z=0.50] died: Minion was killed
+[05Oct2025 20:12:25.904] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Minion'/62525, l='ServerLevel[world]', x=0.50, y=-200.00, z=0.50] died: Minion was killed
+[05Oct2025 20:12:29.003] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Minion'/62526, l='ServerLevel[world]', x=0.50, y=-200.00, z=0.50] died: Minion was killed
+[05Oct2025 20:12:29.004] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Minion'/62527, l='ServerLevel[world]', x=0.50, y=-200.00, z=0.50] died: Minion was killed
+[05Oct2025 20:12:36.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[05Oct2025 20:12:36.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[05Oct2025 20:12:43.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: muela lost connection: Timed out
+[05Oct2025 20:12:43.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: muela left the game
+[05Oct2025 20:12:45.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Minion'/62572, l='ServerLevel[world]', x=0.50, y=-200.00, z=0.50] died: Minion was killed
+[05Oct2025 20:12:45.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Minion'/62573, l='ServerLevel[world]', x=0.50, y=-200.00, z=0.50] died: Minion was killed
+[05Oct2025 20:12:46.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:49212] logged in with entity id 62749 at (-1213.4729642388725, 68.0, 226.42031325089528)
+[05Oct2025 20:12:46.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[05Oct2025 20:12:48.455] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Minion'/62582, l='ServerLevel[world]', x=0.50, y=-200.00, z=0.50] died: Minion was killed
+[05Oct2025 20:12:48.455] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Minion'/62583, l='ServerLevel[world]', x=0.50, y=-200.00, z=0.50] died: Minion was killed
+[05Oct2025 20:12:51.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Minion'/62594, l='ServerLevel[world]', x=0.50, y=-200.00, z=0.50] died: Minion was killed
+[05Oct2025 20:12:51.207] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Minion'/62595, l='ServerLevel[world]', x=0.50, y=-200.00, z=0.50] died: Minion was killed
+[05Oct2025 20:12:51.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: muela[/100.116.191.5:46786] logged in with entity id 62763 at (-1220.8030910831737, 69.00605905238486, 227.31129917067383)
+[05Oct2025 20:12:51.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: muela joined the game
+[05Oct2025 20:13:29.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: muela lost connection: Timed out
+[05Oct2025 20:13:29.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: muela left the game
+[05Oct2025 20:13:33.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[05Oct2025 20:13:33.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[05Oct2025 20:13:39.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: muela[/100.116.191.5:34118] logged in with entity id 62869 at (-1220.8030910831737, 69.00605905238486, 227.31129917067383)
+[05Oct2025 20:13:39.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: muela joined the game

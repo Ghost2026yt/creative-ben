@@ -340,6 +340,8 @@
       "minecraft:skeleton": "2025-10-05 16:16:16 +0000",
       "minecraft:ravager": "2025-10-05 15:29:27 +0000",
       "minecraft:vindicator": "2025-10-05 15:25:48 +0000",
+      "minecraft:spider": "2025-10-05 20:01:56 +0000",
+      "minecraft:creeper": "2025-10-05 20:01:53 +0000",
       "minecraft:stray": "2025-10-05 15:26:13 +0000",
       "minecraft:zombie": "2025-10-05 16:00:59 +0000"
     },
@@ -769,6 +771,12 @@
   "alienevo:discover_ship": {
     "criteria": {
       "find_ship": "2025-10-05 19:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2025-10-05 20:01:53 +0000"
     },
     "done": true
   },
