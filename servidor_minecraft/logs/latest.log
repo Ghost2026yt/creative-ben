@@ -481,3 +481,51 @@ com.google.gson.JsonParseException: Ability 'alienevo:generate_random' does not 
 [05Oct2025 19:33:42.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amatista: Teleported Amatista to -1183.500000, 80.000000, 192.500000]
 [05Oct2025 19:33:42.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2959ms or 59 ticks behind
 [05Oct2025 19:33:42.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amatista has made the advancement [Crash Course]
+[05Oct2025 19:34:00.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amatista: Set own game mode to Spectator Mode]
+[05Oct2025 19:34:02.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Set own game mode to Creative Mode]
+[05Oct2025 19:34:07.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: muela moved too quickly! 16.779290871017707,-1.5360037814243128,-12.1275584694489
+[05Oct2025 19:34:19.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Teleported 3 entities to Ghost2026yT]
+[05Oct2025 19:34:20.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: muela has made the advancement [Crash Course]
+[05Oct2025 19:34:20.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer has made the advancement [Crash Course]
+[05Oct2025 19:34:48.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[05Oct2025 19:34:48.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[05Oct2025 19:34:54.519] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: muela lost connection: Timed out
+[05Oct2025 19:34:54.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: muela left the game
+[05Oct2025 19:34:56.335] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:48104] logged in with entity id 52621 at (-1220.0471635057015, 70.0, 226.39746167166436)
+[05Oct2025 19:34:56.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[05Oct2025 19:35:13.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: muela[/100.116.191.5:36040] logged in with entity id 52689 at (-1220.0471635057015, 70.0, 226.39746167166436)
+[05Oct2025 19:35:13.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: muela joined the game
+[05Oct2025 19:35:16.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost2026yT lost connection: Timed out
+[05Oct2025 19:35:16.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost2026yT left the game
+[05Oct2025 19:35:24.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghost2026yT[/100.67.52.59:37632] logged in with entity id 52712 at (-1183.563319721316, 67.26636799395752, 225.6160441680939)
+[05Oct2025 19:35:24.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost2026yT joined the game
+[05Oct2025 19:39:41.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[05Oct2025 19:39:41.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Firulais left the game
+[05Oct2025 19:39:57.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: muela lost connection: Timed out
+[05Oct2025 19:39:57.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: muela left the game
+[05Oct2025 19:39:57.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost2026yT lost connection: Timed out
+[05Oct2025 19:39:57.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mr.Beast left the game
+[05Oct2025 19:39:59.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:48228] logged in with entity id 53615 at (-1219.7840651645236, 68.0, 226.13936959356707)
+[05Oct2025 19:39:59.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[05Oct2025 19:40:03.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghost2026yT[/100.67.52.59:33912] logged in with entity id 53859 at (-1185.0951441236314, 67.5, 225.31816794019835)
+[05Oct2025 19:40:03.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost2026yT joined the game
+[05Oct2025 19:40:07.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: muela[/100.116.191.5:43648] logged in with entity id 53952 at (-1217.3616541485374, 68.0, 223.87471201949688)
+[05Oct2025 19:40:07.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: muela joined the game
+[05Oct2025 19:40:29.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[05Oct2025 19:40:29.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[05Oct2025 19:40:37.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost2026yT lost connection: Timed out
+[05Oct2025 19:40:37.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost2026yT left the game
+[05Oct2025 19:40:40.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:48274] logged in with entity id 53968 at (-1216.421821760061, 68.0, 225.66547028936003)
+[05Oct2025 19:40:40.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
+[05Oct2025 19:40:41.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: muela lost connection: Timed out
+[05Oct2025 19:40:41.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: muela left the game
+[05Oct2025 19:40:42.221] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghost2026yT[/100.67.52.59:43458] logged in with entity id 53979 at (-1185.0951441236314, 67.5, 225.31816794019835)
+[05Oct2025 19:40:42.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost2026yT joined the game
+[05Oct2025 19:40:50.768] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: muela[/100.116.191.5:41724] logged in with entity id 54017 at (-1217.3616541485374, 68.0, 223.87471201949688)
+[05Oct2025 19:40:50.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: muela joined the game
+[05Oct2025 19:41:12.809] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumpylauncer lost connection: Timed out
+[05Oct2025 19:41:12.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer left the game
+[05Oct2025 19:41:49.424] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12731f73[id=<null>,name=Lumpylauncer,properties={},legacy=false] (/100.84.200.109:48500) lost connection: Disconnected
+[05Oct2025 19:42:33.257] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b4e12a[id=<null>,name=Lumpylauncer,properties={},legacy=false] (/100.84.200.109:48522) lost connection: Timed out
+[05Oct2025 19:44:04.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumpylauncer[/100.84.200.109:48722] logged in with entity id 54551 at (-1216.421821760061, 68.0, 225.66547028936003)
+[05Oct2025 19:44:04.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumpylauncer joined the game
