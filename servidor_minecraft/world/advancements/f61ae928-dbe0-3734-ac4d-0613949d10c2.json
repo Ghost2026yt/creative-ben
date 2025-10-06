@@ -840,6 +840,30 @@
     },
     "done": true
   },
+  "alienevo:recipes/upgrade_chip": {
+    "criteria": {
+      "has_galvan_metal": "2025-10-05 21:55:55 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/omnitrix_workbench": {
+    "criteria": {
+      "has_galvan_scrap": "2025-10-05 21:55:58 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/galvan_metal": {
+    "criteria": {
+      "has_galvan_scrap": "2025-10-05 21:55:58 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/galvan_pod": {
+    "criteria": {
+      "has_galvan_scrap": "2025-10-05 21:55:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-10-05 21:56:02 +0000"
@@ -849,12 +873,6 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-10-05 21:56:02 +0000"
-    },
-    "done": true
-  },
-  "alienevo:recipes/omnitrix_workbench": {
-    "criteria": {
-      "has_galvan_scrap": "2025-10-05 21:55:58 +0000"
     },
     "done": true
   },
@@ -948,12 +966,6 @@
     },
     "done": true
   },
-  "alienevo:recipes/upgrade_chip": {
-    "criteria": {
-      "has_galvan_metal": "2025-10-05 21:55:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-10-05 21:56:02 +0000"
@@ -969,12 +981,6 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-10-05 21:56:02 +0000"
-    },
-    "done": true
-  },
-  "alienevo:recipes/galvan_metal": {
-    "criteria": {
-      "has_galvan_scrap": "2025-10-05 21:55:58 +0000"
     },
     "done": true
   },
@@ -996,12 +1002,6 @@
     },
     "done": true
   },
-  "alienevo:recipes/galvan_pod": {
-    "criteria": {
-      "has_galvan_scrap": "2025-10-05 21:55:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-10-05 21:56:02 +0000"
@@ -1011,6 +1011,66 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-10-05 21:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-10-05 23:47:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_fridge": {
+    "criteria": {
+      "has_fridge": "2025-10-05 23:51:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_fridge": {
+    "criteria": {
+      "has_light_fridge": "2025-10-05 23:51:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keycard_lv4_reset": {
+    "criteria": {
+      "has_keycard": "2025-10-05 23:51:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_crystal_quartz_block": {
+    "criteria": {
+      "has_block_pocket_wall": "2025-10-06 00:04:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
+    "criteria": {
+      "has_ceiling_light": "2025-10-06 00:07:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
+    "criteria": {
+      "has_light_ceiling_light": "2025-10-06 00:07:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_lightswitch": {
+    "criteria": {
+      "has_lightswitch": "2025-10-06 00:08:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
+    "criteria": {
+      "has_light_lightswitch": "2025-10-06 00:08:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-10-06 00:18:24 +0000"
     },
     "done": true
   },
