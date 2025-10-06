@@ -1971,3 +1971,54 @@ com.google.gson.JsonParseException: Ability 'alienevo:generate_random' does not 
 [06Oct2025 15:17:40.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Oct2025 15:20:38.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Applied effect Night Vision to Ghost2026yT]
 [06Oct2025 15:20:44.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Applied effect Night Vision to Ghost2026yT]
+[06Oct2025 15:22:17.689] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17b2dfmfmexkj]: started parsing
+[06Oct2025 15:22:17.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17b2dfmfmexkj]: Consuming argument ``
+[06Oct2025 15:22:18.436] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oo17rgh3etl2]: started parsing
+[06Oct2025 15:22:18.436] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oo17rgh3etl2]: Consuming argument `0`
+[06Oct2025 15:22:18.446] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oo17rgh3etl2]: Finished looking at arguments. Finalizing command.
+[06Oct2025 15:22:18.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15097l2db83p4]: started parsing
+[06Oct2025 15:22:18.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15097l2db83p4]: Consuming argument `0`
+[06Oct2025 15:22:18.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15097l2db83p4]: Finished looking at arguments. Finalizing command.
+[06Oct2025 15:22:19.294] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/creative-ben/servidor_minecraft/mods/worldedit-mod-7.2.15.jar%23123!/com/sk89q/worldedit/world/registry/blocks.120.json for bundled block data.
+[06Oct2025 15:22:40.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Oct2025 15:22:40.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Oct2025 15:24:31.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [148t9qmzi4uyt]: started parsing
+[06Oct2025 15:24:31.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [148t9qmzi4uyt]: Consuming argument `0`
+[06Oct2025 15:24:31.857] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [148t9qmzi4uyt]: Finished looking at arguments. Finalizing command.
+[06Oct2025 15:24:31.858] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wb56k0b1ebfn]: started parsing
+[06Oct2025 15:24:31.858] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wb56k0b1ebfn]: Consuming argument `0`
+[06Oct2025 15:24:31.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wb56k0b1ebfn]: Finished looking at arguments. Finalizing command.
+[06Oct2025 15:24:32.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pqfw9m76bsp7]: started parsing
+[06Oct2025 15:24:32.347] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pqfw9m76bsp7]: Consuming argument `0`
+[06Oct2025 15:24:32.347] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pqfw9m76bsp7]: Finished looking at arguments. Finalizing command.
+[06Oct2025 15:25:43.453] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15asej114wacl]: started parsing
+[06Oct2025 15:25:43.453] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15asej114wacl]: Consuming argument `0`
+[06Oct2025 15:25:43.453] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15asej114wacl]: Finished looking at arguments. Finalizing command.
+[06Oct2025 15:25:43.454] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r3k5t9xns99c]: started parsing
+[06Oct2025 15:25:43.454] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r3k5t9xns99c]: Consuming argument `0`
+[06Oct2025 15:25:43.454] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r3k5t9xns99c]: Finished looking at arguments. Finalizing command.
+[06Oct2025 15:25:43.599] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06ocz2lqbzxwi]: started parsing
+[06Oct2025 15:25:43.599] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06ocz2lqbzxwi]: Consuming argument `0`
+[06Oct2025 15:25:43.599] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06ocz2lqbzxwi]: Finished looking at arguments. Finalizing command.
+[06Oct2025 15:25:53.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [107sognm0c0co]: started parsing
+[06Oct2025 15:25:53.559] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [107sognm0c0co]: Consuming argument `0`
+[06Oct2025 15:25:53.559] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [107sognm0c0co]: Finished looking at arguments. Finalizing command.
+[06Oct2025 15:25:53.559] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1smrhdsmddqhv]: started parsing
+[06Oct2025 15:25:53.559] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1smrhdsmddqhv]: Consuming argument `0`
+[06Oct2025 15:25:53.559] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1smrhdsmddqhv]: Finished looking at arguments. Finalizing command.
+[06Oct2025 15:25:53.805] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1betnlf6p8bc9]: started parsing
+[06Oct2025 15:25:53.805] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1betnlf6p8bc9]: Consuming argument `0`
+[06Oct2025 15:25:53.805] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1betnlf6p8bc9]: Finished looking at arguments. Finalizing command.
+[06Oct2025 15:27:40.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Oct2025 15:27:40.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Oct2025 15:27:56.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Set own game mode to Spectator Mode]
+[06Oct2025 15:28:00.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Set own game mode to Creative Mode]
+[06Oct2025 15:31:35.577] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1256, y=-15, z=242}
+[06Oct2025 15:31:55.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Set own game mode to Spectator Mode]
+[06Oct2025 15:31:59.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Set own game mode to Creative Mode]
+[06Oct2025 15:32:04.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Set own game mode to Spectator Mode]
+[06Oct2025 15:32:05.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Set own game mode to Creative Mode]
+[06Oct2025 15:32:40.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Oct2025 15:32:40.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Oct2025 15:37:40.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Oct2025 15:37:40.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
