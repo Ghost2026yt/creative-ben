@@ -544,3 +544,6 @@ com.google.gson.JsonParseException: Ability 'alienevo:generate_random' does not 
 [06Oct2025 01:51:42.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Killed Ghost2026yT]
 [06Oct2025 01:51:46.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Set own game mode to Spectator Mode]
 [06Oct2025 01:51:56.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost2026yT: Set own game mode to Creative Mode]
+[06Oct2025 01:55:21.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost2026yT lost connection: Disconnected
+[06Oct2025 01:55:21.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost2026yT left the game
+[06Oct2025 01:55:21.657] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
