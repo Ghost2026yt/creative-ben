@@ -1466,51 +1466,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
-    "criteria": {
-      "has_light_microwave": "2025-10-06 00:34:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
-    "criteria": {
-      "has_ceiling_light": "2025-10-06 00:34:30 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_toaster": {
-    "criteria": {
-      "has_toaster": "2025-10-06 00:29:23 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/dark_fridge": {
     "criteria": {
       "has_fridge": "2025-10-06 00:29:12 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_microwave": {
-    "criteria": {
-      "has_microwave": "2025-10-06 00:34:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_toaster": {
-    "criteria": {
-      "has_light_toaster": "2025-10-06 00:29:23 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
-    "criteria": {
-      "has_light_ceiling_light": "2025-10-06 00:34:30 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_lightswitch": {
-    "criteria": {
-      "has_lightswitch": "2025-10-06 00:34:28 +0000"
     },
     "done": true
   },
@@ -1520,9 +1478,51 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/dark_toaster": {
+    "criteria": {
+      "has_toaster": "2025-10-06 00:29:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_toaster": {
+    "criteria": {
+      "has_light_toaster": "2025-10-06 00:29:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
+    "criteria": {
+      "has_light_microwave": "2025-10-06 00:34:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_microwave": {
+    "criteria": {
+      "has_microwave": "2025-10-06 00:34:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_lightswitch": {
+    "criteria": {
+      "has_lightswitch": "2025-10-06 00:34:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
     "criteria": {
       "has_light_lightswitch": "2025-10-06 00:34:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
+    "criteria": {
+      "has_ceiling_light": "2025-10-06 00:34:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
+    "criteria": {
+      "has_light_ceiling_light": "2025-10-06 00:34:30 +0000"
     },
     "done": true
   },
